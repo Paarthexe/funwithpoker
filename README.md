@@ -88,5 +88,3 @@ The [BasicRuleBasedPlayer](file:///Users/paarth/Desktop/aipoker/AI-Poker-2025/BR
 - **Opponent Raise Profiling**: Folds marginal hands when multiple opponents raise heavily.
 - **50% Bluffing Multiplier**: Employs a 50% chance to bluff-bet/raise when pot odds are not in its favor, instead of folding immediately.
 
-Note: If you find any bugs, please e-mail them to ieee.sb@pilani.bits-pilani.ac.in
-
